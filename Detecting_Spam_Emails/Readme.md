@@ -1,5 +1,6 @@
 \
 # Spam Email Detection with Deep Learning
+![image_2024-05-16_15-22-13](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/7c8b870a-cc57-4a6e-bd63-05218d8432ba)
 
 ## Introduction
 This project aims to build a deep learning model to detect spam emails. Using a dataset of emails, the model preprocesses the text data, builds a sequential neural network, and evaluates its performance in identifying spam emails. The project utilizes libraries such as TensorFlow, Keras, NLTK, and others for natural language processing and model training.
