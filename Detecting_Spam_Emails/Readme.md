@@ -14,9 +14,9 @@ This project aims to build a deep learning model to detect spam emails. Using a 
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-
-
-
+ ```
+ get clone https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/tree/main/Detecting_Spam_Emails
+```
    \```
 2. Change into the project directory:
    \```
