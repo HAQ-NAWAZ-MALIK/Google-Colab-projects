@@ -14,7 +14,7 @@ The Handwritten Digit Classifier is a machine learning project that utilizes a n
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/handwritten-digit-classifier.git
+    git clone https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects.git
     ```
 2. Navigate to the project directory:
     ```bash
