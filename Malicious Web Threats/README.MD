@@ -62,4 +62,4 @@ Make sure to install these libraries before running the notebook.
 
 ## Acknowledgments
 
-This notebook was created by HAQ NAWAZ MALIK. The dataset used in this project is available on Kaggle: [Cybersecurity Suspicious Web Threat Interactions](https://www.kaggle.com/datasets/santhoshs/cybersecurity-suspicious-web-threat-interactions).
+This notebook was created by HAQ NAWAZ MALIK. The dataset used in this project is available on Kaggle: [Cybersecurity Suspicious Web Threat Interactions](https://www.kaggle.com/datasets/jancsg/cybersecurity-suspicious-web-threat-interactions/data).
