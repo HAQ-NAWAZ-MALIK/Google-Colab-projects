@@ -1,6 +1,7 @@
 # Music Genre Classifier via CNN
 
 This project aims to classify 30-second audio clips into different genres using TensorFlow and Librosa. The audio samples in .wav format are preprocessed by calculating their Mel-Frequency Cepstral Coefficients (MFCCs), which provide a representation of how the energy varies over time for different perceived frequency bands. In this case, 13 frequency bands are used.
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/7a89e783-a8f7-4739-92b7-78d9500c6893)
 
 ## Dataset
 
@@ -13,6 +14,8 @@ The `preprocess_data` function processes the audio files in the dataset. It slic
 ## Model Architecture
 
 The model architecture is designed using TensorFlow's Keras API. It consists of several convolutional layers, max-pooling layers, batch normalization layers, and a dropout layer. The final layers are a flatten layer, a dense layer with 64 units and ReLU activation, and a dense output layer with softmax activation.
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/443d712b-01bb-4cfa-9613-2a3ad4dc968b)
+
 
 ## Training and Evaluation
 
