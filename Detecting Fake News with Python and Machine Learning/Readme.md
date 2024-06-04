@@ -37,4 +37,4 @@ The trained model achieves an accuracy of around 93% in classifying news article
 
 ## Conclusion
 
-This project demonstrates how to build a machine learning model to detect fake news using Python and popular libraries like Scikit-learn, Matplotlib, and Seaborn. The model achieves a good accuracy, but it's important to note that it may still make some mistakes, and further improvements could be explored.
+This project demonstrates how  to detect fake news using Machine Learning Python and popular libraries like Scikit-learn, Matplotlib, and Seaborn. The model achieves a good accuracy, but it's important to note that it may still make some mistakes, and further improvements could be explored.
