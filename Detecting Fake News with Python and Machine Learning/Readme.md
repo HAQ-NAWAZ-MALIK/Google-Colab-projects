@@ -30,7 +30,8 @@ The dataset used in this project is obtained from a Google Drive link (https://d
 6. Initialize a PassiveAggressiveClassifier model and train it on the transformed training data.
 7. Predict on the testing set and calculate the accuracy score.
 8. Plot the confusion matrix to visualize the model's performance.
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/933bf865-60e0-4bdc-9be8-a60ffb2c60f5)
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/c6a770cb-7301-4950-8de5-5d3933524869)
 
 ## Results
 
