@@ -1,10 +1,15 @@
 # Detecting Fake News with Python and Machine Learning
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/c7ae3000-ca76-458f-9408-6955cf64f9ed)
 
 This project aims to build a machine learning model to detect fake news using Python. The model is trained on a dataset of news articles labeled as either "FAKE" or "REAL".
 
 ## Dataset
 
 The dataset used in this project is obtained from a Google Drive link (https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view). It is a CSV file containing news articles and their labels.
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/1a5ea29a-ceb0-453f-ab85-50a14058c716)
+
+
 
 ## Prerequisites
 
