@@ -1,7 +1,4 @@
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/486de2ad-760a-4da2-b83d-b0fba20996e8)![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/486de2ad-760a-4da2-b83d-b0fba20996e8)# Face Recognition using OpenCV
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/10aebe61-a341-498e-bf7d-41865d73c8d8)
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/10aebe61-a341-498e-bf7d-41865d73c8d8)
-
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/assets/86514900/486de2ad-760a-4da2-b83d-b0fba20996e8)
 
 This Python script demonstrates face recognition using OpenCV (Open Source Computer Vision Library). It utilizes the Local Binary Patterns Histograms (LBPH) algorithm for face recognition.
 
