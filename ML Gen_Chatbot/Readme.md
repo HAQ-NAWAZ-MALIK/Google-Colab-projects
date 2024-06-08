@@ -41,11 +41,11 @@ pip install pandas scikit-learn
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/HAQ-NAWAZ-MALIK/Google-Colab-projects/blob/815b64cb659c56a180687b864c3d58857e63579d/ML%20Gen_Chatbot
 ```
 2. Navigate to the project directory:
 ```bash
-cd your-repo-name
+cd ML Gen_Chatbot
 ```
 3. Open the Jupyter Notebook:
 ```bash
