@@ -85,6 +85,3 @@ Contributions are welcome! Follow these steps:
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-```
-
-This version of the `README.md` is more concise and precise, providing clear instructions and information while avoiding unnecessary detail.
