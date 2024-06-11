@@ -37,5 +37,5 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Created with ❤️ by [Ashish](https://github.com/ashishpatel26/)
+## AUTHOR
+ [HAQ NAWAZ MALIK](https://github.com/HAQ-NAWAZ-MALIK)
