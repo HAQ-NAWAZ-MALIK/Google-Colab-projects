@@ -20,4 +20,4 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset
 
 ## Author(s)
 
- [ Haq Nawaz Malik ](https://github.com/Haq-Nawaz-Maik)
+ [ Haq Nawaz Malik ](https://github.com/HAQ-NAWAZ-MALIK)
