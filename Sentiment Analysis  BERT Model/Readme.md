@@ -31,23 +31,13 @@ pip install torch transformers pandas numpy scikit-learn jupyter
 
 ## Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-bert.git
-   cd sentiment-analysis-bert
-   ```
 
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Open the Jupyter Notebook**:
+1. **Open the Jupyter Notebook**:
    ```bash
    jupyter notebook Sentiment_Analysis_using_Pretrained_BERT_Model.ipynb
    ```
 
-4. **Run the cells** in the notebook to load the model, preprocess the data, and perform sentiment analysis.
+2. **Run the cells** in the notebook to load the model, preprocess the data, and perform sentiment analysis.
 
 ## Project Structure
 
